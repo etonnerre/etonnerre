@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @etonnerre
-- 👀 I’m interested in Network Automation and ... Entreprise Network ! 
-- 🌱 I’m currently learning Nornir 
+- 👀 I’m interested in Network Automation and ... Cloud ! 
 - 💞️ I’m looking to collaborate on various framework and NA tools.
 - 📫 How to reach me with github or my [LinkedIn](https://www.linkedin.com/in/etonnerre/)
 
